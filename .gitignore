@@ -1,0 +1,42 @@
+# Generic
+*.log
+*.sqlite3
+__pycache__/
+*.py[cod]
+
+# Django
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+/media
+/static
+.env
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editors
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Stale/Unused
+frontend/
+backend/api/
+
+# Node (if any)
+node_modules/
+npm-debug.log
+yarn-error.log
