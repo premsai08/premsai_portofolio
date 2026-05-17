@@ -32,6 +32,11 @@ A high-end, animated personal portfolio website built with **Django MVT (Model-V
     python manage.py migrate
     python manage.py seed_data
     ```
+3.  **Run Migrations & Seed Data**:
+    ```bash
+    python manage.py migrate
+    python manage.py seed_data
+    ```
 
 4.  **Run Server**:
     ```bash
